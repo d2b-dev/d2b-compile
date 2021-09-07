@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "d2b-compile"
-version = "0.1.0"
+version = "1.0.0"
 description = "compile-dcm2bids-config plugin for the d2b package"
 authors = ["Alec Ross <alexander.w.rosss@gmail.com>"]
 
