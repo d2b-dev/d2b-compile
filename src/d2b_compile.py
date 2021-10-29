@@ -4,7 +4,7 @@ import compile_dcm2bids_config as cdc
 from d2b.hookspecs import hookimpl
 
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 
 
 @hookimpl
